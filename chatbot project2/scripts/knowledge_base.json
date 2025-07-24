@@ -1,0 +1,20 @@
+{
+    "questions": [
+        {
+            "question": "what is depression",
+            "answer": "Depression is a common but serious mood disorder that causes severe symptoms affecting how you feel, think, and handle daily activities. It's more than just feeling sad - it can include persistent sadness, loss of interest, fatigue, and other symptoms lasting at least two weeks."
+        },
+        {
+            "question": "how to deal with anxiety",
+            "answer": "Managing anxiety can include several strategies: deep breathing exercises, mindfulness meditation, regular physical exercise, limiting caffeine, getting enough sleep, and challenging negative thoughts. For persistent anxiety, consider talking to a mental health professional."
+        },
+        {
+            "question": "what are panic attacks",
+            "answer": "Panic attacks are sudden episodes of intense fear that trigger severe physical reactions when there is no real danger. Symptoms may include racing heart, sweating, trembling, shortness of breath, and feelings of impending doom. They can be very frightening but aren't dangerous."
+        },
+        {
+            "question": "how to help a friend with mental health issues",
+            "answer": "To support a friend: listen without judgment, encourage them to seek professional help, educate yourself about their condition, offer practical help, stay in touch, and take care of your own mental health too. Remember you're not expected to be their therapist."
+        }
+    ]
+}
